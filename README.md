@@ -6,7 +6,8 @@ My name is Urszula Baranowska. I am a Cognitive Neuroscientist 🧠 (graduated f
 Right now I am using github for all the projects I am working on at university / during other courses - mostly improving my Python skills at the moment. 🐍 In my most recent project I analysed Polish Escape Room market using data scraped from lock.me and made a simple dashboard using streamlit ([PJATK_PAD_projekt](https://github.com/umbaranowska/PJATK_PAD_projekt) repository). Feel free to have a look around!
 
 
-This July I am going to participate in Neuromatch Academy - Computational Neuroscience. Later this summer I am also going to complete Google GCP Associate Cloud Engineer training.
+I am currently participating in Neuromatch Academy - Computational Neuroscience and learning Julia Scientific Programming on Coursera.  
+Later this summer I am also going to complete Google GCP Associate Cloud Engineer training.
 
 
 In my free time I enjoy escape rooms, puzzles, jigsaw puzzles, reading, theatre and gardening. I am also trying to improve my brush lettering and learn some Japanese.
