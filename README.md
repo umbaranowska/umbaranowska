@@ -15,4 +15,5 @@ In my free time I enjoy escape rooms, puzzles, jigsaw puzzles, reading, theatre 
 
 I hope you will find something interesting or useful here 😄 See you around!
 
-😺💻🧠📚🎭🏳️‍🌈
+💻🧠
+🏳️‍🌈🖤💜🤍
