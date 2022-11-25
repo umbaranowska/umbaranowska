@@ -14,6 +14,9 @@ related to Data Science in Medicine, Biostatistics and Clinical Research.
 <a href="https://www.r-project.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
 </a>
+<a href="https://tidyverse.tidyverse.org/">
+  <img src="https://tidyverse.tidyverse.org/logo.png" alt="tidyverse" width="45" height="45"/>
+</a>
 <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 </a>
