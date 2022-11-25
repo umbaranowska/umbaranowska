@@ -4,9 +4,10 @@ currently studying towards MSc in Computer Science (Data Science specialisation)
 - Two years of professional experience as Data Analyst using R and Python.
 - I have worked with various data types
 (from social media and internet monitoring tools to pen and paper questionnaires to eye-tracking, EEG and fMRI)
-and used different tools to obtain satisfactory results (RStudio, Pycharm, Ogama, Psycho-Py, EEGLab, SPM). 
-- In my future work I would love to combine Neuroscience and Data Science, but I am also open to new opportunities 
-related to Data Science in Medicine, Biostatistics and Clinical Research.
+and used different tools to obtain satisfactory results (such as RStudio, Pycharm, Ogama, Psycho-Py, EEGLab, SPM). 
+- In my future work I would love to combine Neuroscience and Data Science, but I am also open to new opportunities, especially those 
+related to Data Science in Medicine, Biostatistics and Clinical Research.  
+- I speak Polish, English and German.
 
 # Languages and tools
 <p align="left">
