@@ -1,6 +1,7 @@
-# About me
-- Recent graduate from SWPS University of Social Sciences and Humanities (BA in Psychology, Brain-Mind-Technology specialisation) 
-currently studying towards MSc in Computer Science (Data Science specialisation) at Polish-Japanese Academy of Information Technology. 
+# About me  
+- Joined Quanticate as Programmer II this year, in my everyday work I use SAS and SQL.  
+- Graduated from SWPS University of Social Sciences and Humanities (BA in Psychology, Brain-Mind-Technology specialisation, 2021) 
+then studied towards MSc in Computer Science (Data Science specialisation) at Polish-Japanese Academy of Information Technology (not completed yet). 
 - Two years of professional experience as Data Analyst using R and Python.
 - I have worked with various data types
 (from social media and internet monitoring tools to pen and paper questionnaires to eye-tracking, EEG and fMRI)
@@ -11,6 +12,9 @@ related to Data Science in Medicine, Biostatistics and Clinical Research.
 
 # Languages and tools
 <p align="left">
+<a href="https://www.sas.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" alt="r" width="100" height="45"/>
+</a>
 <a href="https://www.r-project.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
 </a>
