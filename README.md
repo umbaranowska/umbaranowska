@@ -1,7 +1,7 @@
 # About me  
-- Joined Quanticate as Programmer II this year, in my everyday work I use SAS and SQL.  
+- Joined Quanticate as Programmer II about a year ago, in my everyday work I use SAS and SQL. My team is focused on Real World Evidence.  
 - Graduated from SWPS University of Social Sciences and Humanities (BA in Psychology, Brain-Mind-Technology specialisation, 2021) 
-then studied towards MSc in Computer Science (Data Science specialisation) at Polish-Japanese Academy of Information Technology (not completed yet). 
+then studied towards MSc in Computer Science (Data Science specialisation) at Polish-Japanese Academy of Information Technology (not completed). 
 - Two years of professional experience as Data Analyst using R and Python.
 - I have worked with various data types
 (from social media and internet monitoring tools to pen and paper questionnaires to eye-tracking, EEG and fMRI)
